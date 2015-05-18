@@ -1,0 +1,11 @@
+{
+  "name": "IcyAuth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Icysoft",
+  "license": "MPL v2"
+}
